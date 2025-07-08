@@ -34,14 +34,14 @@ Además, cuento con **experiencia en atención al cliente**, potenciando mis hab
 
 ## 📂 Proyectos destacados
 
-🚀 [**Portfolio Web Personal**](https://github.com/IgnacioRojos)  
-🚀 [**Tu Profe Particular - React.js**](https://github.com/IgnacioRojos)  
-🚀 [**Proyecto Back-End**](https://github.com/IgnacioRojos)  
-🚀 [**Matching**](https://github.com/IgnacioRojos)  
-🚀 [**HIR Reparaciones**](https://github.com/IgnacioRojos)  
-🚀 [**Concesionario Sport - React.js**](https://github.com/IgnacioRojos)
+🚀 [**Portfolio Web Personal**](https://github.com/IgnacioRojos/Porfolio.git)  
+🚀 [**Tu Profe Particular - React.js**](https://github.com/IgnacioRojos/Tu-Profe-Particular-React.git)  
+🚀 [**Proyecto Back-End**](https://github.com/IgnacioRojos/BackEnd.git)  
+🚀 [**Matching**](https://github.com/IgnacioRojos/Matching-Vite.git)  
+🚀 [**HIR Reparaciones**](https://github.com/IgnacioRojos/HIR-reparaciones.git)  
+🚀 [**Concesionario Sport - React.js**](https://github.com/IgnacioRojos/Concesionario-Sport-React-Js.git)
 
-*(Si tienes links a deploys de estos proyectos, agrégalos al lado del nombre para que puedan verlos funcionando)*
+
 
 ---
 
