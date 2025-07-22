@@ -34,7 +34,7 @@ Además, cuento con **experiencia en atención al cliente**, potenciando mis hab
 
 ## 📂 Proyectos destacados
 
-🚀 [**Portfolio Web Personal**](https://github.com/IgnacioRojos/Porfolio.git)  
+🚀 [**Portfolio Web Personal**](https://github.com/IgnacioRojos/Porfolio-react-js)  
 🚀 [**Tu Profe Particular - React.js**](https://github.com/IgnacioRojos/Tu-Profe-Particular-React.git)  
 🚀 [**Proyecto Back-End**](https://github.com/IgnacioRojos/BackEnd.git)  
 🚀 [**Matching**](https://github.com/IgnacioRojos/Matching-Vite.git)  
