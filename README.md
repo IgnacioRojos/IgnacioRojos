@@ -38,7 +38,7 @@ Además, cuento con **experiencia en atención al cliente**, potenciando mis hab
 🚀 [**Tu Profe Particular - React.js**](https://github.com/IgnacioRojos/Tu-Profe-Particular-React.git)  
 🚀 [**Proyecto Back-End**](https://github.com/IgnacioRojos/BackEnd.git)  
 🚀 [**Matching**](https://github.com/IgnacioRojos/Matching-Vite.git)  
-🚀 [**HIR Reparaciones**](https://github.com/IgnacioRojos/HIR-reparaciones.git)  
+🚀 [**HIR Reparaciones**](https://github.com/IgnacioRojos/HIReparaciones-React-js.git)  
 🚀 [**Concesionario Sport - React.js**](https://github.com/IgnacioRojos/Concesionario-Sport-React-Js.git)
 
 
