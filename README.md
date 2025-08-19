@@ -10,6 +10,7 @@ Soy **Desarrollador Front-End** con conocimientos en Back-End, apasionado por co
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -19,6 +20,8 @@ Soy **Desarrollador Front-End** con conocimientos en Back-End, apasionado por co
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ---
 
@@ -42,8 +45,6 @@ Además, cuento con **experiencia en atención al cliente**, potenciando mis hab
 🚀 [**HIR Reparaciones**](https://github.com/IgnacioRojos/HIReparaciones-React-js.git)  
 🚀 [**Concesionario Sport - React.js**](https://github.com/IgnacioRojos/Concesionario-Sport-React-Js.git)
 
-
-
 ---
 
 ## 📫 Contacto
@@ -57,5 +58,4 @@ Además, cuento con **experiencia en atención al cliente**, potenciando mis hab
 ✨ **Busco seguir creciendo como desarrollador web y aportar valor a nuevos proyectos.**  
 Si querés **ver mi código o trabajar conmigo, no dudes en escribirme**.
 
-¡Gracias por pasar y por tu interés!
-
+¡Gracias por pasar y por tu interés! 🚀
