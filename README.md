@@ -57,7 +57,7 @@
 ### 📫 Contacto
 
 ✉️ **nachorojos99@gmail.com**  
-🌐 [**LinkedIn**](https://www.linkedin.com/in/ignaciorojos/)  
+🌐 [**LinkedIn**](www.linkedin.com/in/ignacio-rojos)  
 💻 [**GitHub**](https://github.com/IgnacioRojos)  
 🧭 [**Portfolio Web**](https://porfolioignaciorojos.netlify.app/)
 
