@@ -1,5 +1,6 @@
 <img width="1536" height="1024" alt="Ignacio Rojos - Front-End Developer banner" src="https://github.com/user-attachments/assets/a84f2692-e59b-4012-9428-088dad8d101e" />
-# 👋 ¡Hola! Soy **Ignacio Rojos**
+
+#👋 ¡Hola! Soy **Ignacio Rojos**
 
 🎯 **Desarrollador Front-End con conocimientos en Back-End**, apasionado por crear **interfaces atractivas, intuitivas y funcionales** que aporten valor real a las personas.
 🌐 [Mirá mi portfolio](https://porfolioignaciorojos.netlify.app/)  
