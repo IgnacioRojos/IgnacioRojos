@@ -1,69 +1,117 @@
-# 👋 ¡Hola! Soy Ignacio Rojos
+<img width="1536" height="1024" alt="Ignacio Rojos - Front-End Developer banner" src="https://github.com/user-attachments/assets/a84f2692-e59b-4012-9428-088dad8d101e" />
+# 👋 ¡Hola! Soy **Ignacio Rojos**
 
-Soy **Desarrollador Front-End** con conocimientos en Back-End, apasionado por construir interfaces atractivas, intuitivas y funcionales.
+🎯 **Desarrollador Front-End con conocimientos en Back-End**, apasionado por crear **interfaces atractivas, intuitivas y funcionales** que aporten valor real a las personas.
+🌐 [Mirá mi portfolio](https://porfolioignaciorojos.netlify.app/)  
 
-📍 Desde **Córdoba, Argentina** — en **búsqueda activa** de oportunidades para crecer en el mundo de la programación.
-
----
-
-## 🛠️ Tecnologías que uso
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+📍 *Córdoba, Argentina*  
+💼 Actualmente en **búsqueda activa** de nuevas oportunidades para crecer y seguir aprendiendo en el mundo del desarrollo web.
 
 ---
 
-## 🚀 Un poco sobre mí
 
-Actualmente estudio **Ingeniería en Sistemas en UTN** y me formé en **CoderHouse**, donde participé en proyectos reales en equipo, colaborando en el desarrollo de una **landing page para una empresa real** y coordinando tareas en el equipo Front-End.
+### 🛠️ Tecnologías y herramientas
 
-En mis proyectos combino **creatividad y buenas prácticas de programación**, siempre buscando mejorar la **experiencia de usuario y la eficiencia del código**. Disfruto trabajar de forma **autónoma y en equipo**.
-
-Además, cuento con **experiencia en atención al cliente**, potenciando mis habilidades de **comunicación, trabajo en equipo y orientación a soluciones**.
-
----
-
-## 📂 Proyectos destacados
-
-🚀 [**Portfolio Web Personal**](https://github.com/IgnacioRojos/Porfolio-react-js)  
-
-🚀 [**Ecommerce Full Stack**](https://github.com/IgnacioRojos/ecommerce.git)  
-
-🚀 [**Tu Profe Particular - React.js**](https://github.com/IgnacioRojos/Tu-Profe-Particular-React.git)  
-
-🚀 [**Proyecto Back-End**](https://github.com/IgnacioRojos/BackEnd.git)  
-
-🚀 [**Matching**](https://github.com/IgnacioRojos/Matching-Vite.git)  
-
-🚀 [**HIR Reparaciones**](https://github.com/IgnacioRojos/HIReparaciones-React-js.git)  
-
-🚀 [**Concesionario Sport - React.js**](https://github.com/IgnacioRojos/Concesionario-Sport-React-Js.git)
-
-🚀 [**GDC Gestor de contactos**](https://github.com/IgnacioRojos/GDCFrontEnd.git)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=reactrouter&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=fff)
 
 ---
 
-## 📫 Contacto
+### 🚀 Sobre mí
 
-✉️ [nachorojos99@gmail.com](mailto:nachorojos99@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/ignaciorojos)  
-💻 [GitHub](https://github.com/IgnacioRojos)
+📚 Estudiante de **Ingeniería en Sistemas (UTN)**.  
+🎓 Formación en **CoderHouse**, participando en proyectos reales en equipo, como el desarrollo de una landing page para una empresa real.  
+
+💡 Me gusta combinar creatividad con buenas prácticas para mejorar la **experiencia de usuario**, mantener un **código limpio** y fomentar el **trabajo colaborativo**.  
+🗣️ Además, cuento con experiencia en atención al cliente, fortaleciendo mis habilidades de comunicación y orientación a soluciones.
 
 ---
 
-✨ **Busco seguir creciendo como desarrollador web y aportar valor a nuevos proyectos.**  
-Si querés **ver mi código o trabajar conmigo, no dudes en escribirme**.
+### 📂 Proyectos destacados
 
-¡Gracias por pasar y por tu interés! 🚀
+| Proyecto | Descripción | Tecnologías |
+|-----------|--------------|-------------|
+| 🌐 [**Portfolio Web Personal**](https://porfolioignaciorojos.netlify.app/) | Presentación profesional con proyectos y stack técnico. | React, Bootstrap, Vite |
+| 🛒 [**Ecommerce Full Stack**](https://eccomercefullstack.netlify.app/) | Aplicación MERN con gestión de productos, usuarios y autenticación. | React, Node.js, MongoDB |
+| 📚 [**Tu Profe Particular - React.js**](https://tuprofeparticularreactjs.netlify.app/) | Plataforma de búsqueda y contacto de profesores. | React, API REST |
+| 🗂️ [**GDC Gestor de Contactos**](https://sistemadecontacto.netlify.app/) | Sistema completo para gestión de contactos y derivaciones. | React, Node.js, MongoDB |
+| ⚙️ [**Proyecto Back-End**](https://backend-production-1df6.up.railway.app/) | API REST con autenticación y CRUD de usuarios. | Node.js, Express, MongoDB |
+| 🚗 [**Concesionario Sport - React.js**](https://concesionariosport.netlify.app/) | Aplicación para mostrar y filtrar autos de una concesionaria. | React, Bootstrap |
+| 🧩 [**HIR Reparaciones**](https://hireparacionesreactjs.netlify.app/) | Landing page para un servicio técnico, con formulario y animaciones. | HTML, CSS, JavaScript |
+
+---
+
+### 📫 Contacto
+
+✉️ **nachorojos99@gmail.com**  
+🌐 [**LinkedIn**](https://www.linkedin.com/in/ignaciorojos/)  
+💻 [**GitHub**](https://github.com/nachorojos)  
+🧭 [**Portfolio Web**](https://porfolioignaciorojos.netlify.app/)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <a href="https://github.com/nachorojos">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=nachorojos&show_icons=true&theme=tokyonight&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=nachorojos&show_icons=true&theme=default&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nachorojos&show_icons=true&theme=default&hide_border=true" />
+    </picture>
+  </a>
+  
+  <a href="https://github.com/nachorojos">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nachorojos&layout=compact&theme=tokyonight&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nachorojos&layout=compact&theme=default&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachorojos&layout=compact&theme=default&hide_border=true" />
+    </picture>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/nachorojos">
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com?user=nachorojos&theme=tokyonight&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com?user=nachorojos&theme=default&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="180em" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nachorojos&theme=default&hide_border=true" />
+    </picture>
+  </a>
+
+</div>
+
+---
+
+✨ *Busco seguir creciendo como desarrollador web y aportar valor a nuevos proyectos.*  
+Si querés ver mi código o colaborar, ¡no dudes en escribirme! 🚀
