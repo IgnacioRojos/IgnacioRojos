@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="Ignacio Rojos - Front-End Developer banner" src="https://github.com/user-attachments/assets/a84f2692-e59b-4012-9428-088dad8d101e" />
 
-#👋 ¡Hola! Soy **Ignacio Rojos**
+# 👋¡Hola! Soy **Ignacio Rojos**
 
 🎯 **Desarrollador Front-End con conocimientos en Back-End**, apasionado por crear **interfaces atractivas, intuitivas y funcionales** que aporten valor real a las personas.
 🌐 [Mirá mi portfolio](https://porfolioignaciorojos.netlify.app/)  
@@ -58,7 +58,7 @@
 
 ✉️ **nachorojos99@gmail.com**  
 🌐 [**LinkedIn**](https://www.linkedin.com/in/ignaciorojos/)  
-💻 [**GitHub**](https://github.com/nachorojos)  
+💻 [**GitHub**](https://github.com/IgnacioRojos)  
 🧭 [**Portfolio Web**](https://porfolioignaciorojos.netlify.app/)
 
 ---
@@ -66,47 +66,47 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/nachorojos">
+  <a href="https://github.com/IgnacioRojos">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=nachorojos&show_icons=true&theme=tokyonight&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=IgnacioRojos&show_icons=true&theme=tokyonight&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=nachorojos&show_icons=true&theme=default&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=IgnacioRojos&show_icons=true&theme=default&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nachorojos&show_icons=true&theme=default&hide_border=true" />
+      <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IgnacioRojos&show_icons=true&theme=default&hide_border=true" />
     </picture>
   </a>
   
-  <a href="https://github.com/nachorojos">
+  <a href="https://github.com/IgnacioRojos">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nachorojos&layout=compact&theme=tokyonight&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRojos&layout=compact&theme=tokyonight&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nachorojos&layout=compact&theme=default&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRojos&layout=compact&theme=default&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachorojos&layout=compact&theme=default&hide_border=true" />
+      <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRojos&layout=compact&theme=default&hide_border=true" />
     </picture>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/nachorojos">
+  <a href="https://github.com/IgnacioRojos">
     <picture>
       <source
-        srcset="https://streak-stats.demolab.com?user=nachorojos&theme=tokyonight&hide_border=true"
+        srcset="https://streak-stats.demolab.com?user=IgnacioRojos&theme=tokyonight&hide_border=true"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://streak-stats.demolab.com?user=nachorojos&theme=default&hide_border=true"
+        srcset="https://streak-stats.demolab.com?user=IgnacioRojos&theme=default&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height="180em" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nachorojos&theme=default&hide_border=true" />
+      <img height="180em" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=IgnacioRojos&theme=default&hide_border=true" />
     </picture>
   </a>
 
