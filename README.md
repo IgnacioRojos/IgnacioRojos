@@ -51,7 +51,7 @@ Además, cuento con **experiencia en atención al cliente**, potenciando mis hab
 
 🚀 [**Concesionario Sport - React.js**](https://github.com/IgnacioRojos/Concesionario-Sport-React-Js.git)
 
-🚀 [**GDC Gestor de contacros**](https://github.com/IgnacioRojos/GDCFrontEnd.git)
+🚀 [**GDC Gestor de contactos**](https://github.com/IgnacioRojos/GDCFrontEnd.git)
 
 ---
 
