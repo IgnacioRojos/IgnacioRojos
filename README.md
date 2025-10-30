@@ -97,19 +97,12 @@
 
 <div align="center">
   <a href="https://github.com/IgnacioRojos">
-    <picture>
-      <source
-        srcset="https://streak-stats.demolab.com?user=IgnacioRojos&theme=tokyonight&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://streak-stats.demolab.com?user=IgnacioRojos&theme=default&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img height="180em" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=IgnacioRojos&theme=default&hide_border=true" />
-    </picture>
+    <img 
+      height="150" 
+      alt="GitHub Streak" 
+      src="https://streak-stats.demolab.com?user=IgnacioRojos&theme=default&hide_border=true" 
+    />
   </a>
-
 </div>
 
 ---
