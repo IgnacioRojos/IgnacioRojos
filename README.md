@@ -37,6 +37,7 @@ Además, cuento con **experiencia en atención al cliente**, potenciando mis hab
 
 ## 📂 Proyectos destacados
 
+🚀 [**GDC Gestor de contacros**](https://github.com/IgnacioRojos/GDCFrontEnd.git)
 🚀 [**Portfolio Web Personal**](https://github.com/IgnacioRojos/Porfolio-react-js)  
 🚀 [**Ecommerce Full Stack**](https://github.com/IgnacioRojos/ecommerce.git)  
 🚀 [**Tu Profe Particular - React.js**](https://github.com/IgnacioRojos/Tu-Profe-Particular-React.git)  
