@@ -66,45 +66,26 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/IgnacioRojos">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=IgnacioRojos&show_icons=true&theme=tokyonight&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=IgnacioRojos&show_icons=true&theme=default&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IgnacioRojos&show_icons=true&theme=default&hide_border=true" />
-    </picture>
-  </a>
-  
-  <a href="https://github.com/IgnacioRojos">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRojos&layout=compact&theme=tokyonight&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRojos&layout=compact&theme=default&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRojos&layout=compact&theme=default&hide_border=true" />
-    </picture>
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/IgnacioRojos">
-    <img 
-      height="150" 
-      alt="GitHub Streak" 
-      src="https://streak-stats.demolab.com?user=IgnacioRojos&theme=default&hide_border=true" 
-    />
-  </a>
-</div>
+<!-- GitHub Stats -->
+<a href="https://github.com/IgnacioRojos">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=IgnacioRojos&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" 
+    alt="GitHub Stats" 
+    height="160"
+  />
+</a>
 
+<!-- Top Languages -->
+<a href="https://github.com/IgnacioRojos">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRojos&layout=compact&hide_border=true&theme=tokyonight" 
+    alt="Top Languages" 
+    height="160"
+  />
+</a>
+
+</div>
 ---
 
 ✨ *Busco seguir creciendo como desarrollador web y aportar valor a nuevos proyectos.*  
