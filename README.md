@@ -55,39 +55,19 @@ usuario\
 
 ---
 
+
 ## 📂 Proyectos Destacados
 
-  -------------------------------------------------------------------------------------------------------------------------
-  Proyecto          Problema       Solución     Resultado      Stack        Demo
-  ----------------- -------------- ------------ -------------- ------------ -----------------------------------------------
-  **Ecommerce Full  Venta de       Ecommerce    App completa   React, Node, https://eccomercefullstack.netlify.app/
-  Stack**           productos sin  con auth,    en producción  Express,     
-                    sistema        users y                     MongoDB      
-                    centralizado   productos                                
+| Proyecto                      | Problema                                    | Solución                                          | Resultado                            | Stack                         | Demo                                                                                           |
+| ----------------------------- | ------------------------------------------- | ------------------------------------------------- | ------------------------------------ | ----------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Ecommerce Full Stack**      | Venta de productos sin sistema centralizado | Ecommerce con autenticación, usuarios y productos | App completa en producción           | React, Node, Express, MongoDB | [https://eccomercefullstack.netlify.app/](https://eccomercefullstack.netlify.app/)             |
+| **GDC – Gestor de Contactos** | Gestión manual de contactos                 | Sistema web fullstack                             | Optimización de carga y derivaciones | React, Node, MongoDB          | [https://sistemadecontacto.netlify.app/](https://sistemadecontacto.netlify.app/)               |
+| **Tu Profe Particular**       | Conectar alumnos con profesores             | Plataforma por categorías                         | Conversión efectiva                  | React, API REST               | [https://tuprofeparticularreactjs.netlify.app/](https://tuprofeparticularreactjs.netlify.app/) |
+| **Portfolio Profesional**     | Falta de presencia profesional              | Portfolio con proyectos reales                    | Marca personal digital               | React, Bootstrap, Vite        | [https://porfolioignaciorojos.netlify.app/](https://porfolioignaciorojos.netlify.app/)         |
+| **HIR Reparaciones**          | Servicio sin presencia online               | Landing con formulario                            | Contacto directo con clientes        | HTML, CSS, JavaScript         | [https://hireparacionesreactjs.netlify.app/](https://hireparacionesreactjs.netlify.app/)       |
+| **Concesionario Sport**       | Mostrar y simular compra de autos           | App con filtros y simulador                       | Experiencia interactiva              | React, Bootstrap              | [https://concesionariosport.netlify.app/](https://concesionariosport.netlify.app/)             |
 
-  **GDC -- Gestor   Gestión manual Sistema web  Optimización   React, Node, https://sistemadecontacto.netlify.app/
-  de Contactos**    de contactos   fullstack    de carga y     MongoDB      
-                                                derivaciones                
-
-  **Tu Profe        Conectar       Plataforma   Conversión     React, API   https://tuprofeparticularreactjs.netlify.app/
-  Particular**      alumnos con    por          efectiva       REST         
-                    profes         categorías                               
-
-  **Portfolio       Falta de       Portfolio    Marca personal React,       https://porfolioignaciorojos.netlify.app/
-  Profesional**     presencia      con          digital        Bootstrap,   
-                    profesional    proyectos                   Vite         
-                                   reales                                   
-
-  **HIR             Servicio sin   Landing con  Contacto       HTML, CSS,   https://hireparacionesreactjs.netlify.app/
-  Reparaciones**    presencia      formulario   directo con    JavaScript   
-                    online                      clientes                    
-
-  **Concesionario   Mostrar y      App con      Experiencia    React,       https://concesionariosport.netlify.app/
-  Sport**           simular compra filtros y    interactiva    Bootstrap    
-                    de autos       simulador                                
-  -------------------------------------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------
+---
 
 ## 📈 Qué aporto a un equipo
 
