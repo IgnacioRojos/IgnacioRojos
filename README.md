@@ -1,11 +1,24 @@
 <img width="1536" height="1024" alt="Ignacio Rojos - Front-End Developer banner" src="https://github.com/user-attachments/assets/a84f2692-e59b-4012-9428-088dad8d101e" />
 
-# 👋¡Hola! Soy **Ignacio Rojos**
+# 👋 Hola, soy **Ignacio Rojos**
 
-🎯 **Desarrollador Front-End con conocimientos en Back-End**, apasionado por crear **interfaces atractivas, intuitivas y funcionales** que aporten valor real a las personas.
-🌐 [Mirá mi portfolio](https://porfolioignaciorojos.netlify.app/)  
+### Front-End Developer (Junior-Advanced / Semi Senior) especializado en React, performance y UI funcional
 
-📍 *Córdoba, Argentina*  
+Soy desarrollador Front-End con experiencia construyendo **aplicaciones
+web reales en producción**, especializado en **React y JavaScript**, con
+integración completa a **APIs, backend en Node.js y bases de datos
+MongoDB**.
+
+Me enfoco en crear **interfaces escalables, rápidas y orientadas a
+resolver problemas reales de negocio**, priorizando: - Experiencia de
+usuario\
+- Rendimiento\
+- Mantenibilidad del código\
+- Trabajo colaborativo
+
+🌐 Portfolio: https://porfolioignaciorojos.netlify.app\
+📍 Córdoba, Argentina\
+
 💼 Actualmente en **búsqueda activa** de nuevas oportunidades para crecer y seguir aprendiendo en el mundo del desarrollo web.
 
 ---
@@ -30,31 +43,62 @@
 
 ---
 
-### 🚀 Sobre mí
 
-📚 Estudiante de **Ingeniería en Sistemas (UTN)**.  
-🎓 Formación en **CoderHouse**, participando en proyectos reales en equipo, como el desarrollo de una landing page para una empresa real.  
 
-💡 Me gusta combinar creatividad con buenas prácticas para mejorar la **experiencia de usuario**, mantener un **código limpio** y fomentar el **trabajo colaborativo**.  
-🗣️ Además, cuento con experiencia en atención al cliente, fortaleciendo mis habilidades de comunicación y orientación a soluciones.
+## 🧠 Cómo trabajo
+
+-   Arquitectura de componentes reutilizables\
+-   Consumo de **APIs reales en producción**\
+-   Enfoque en **escalabilidad y mantenimiento**\
+-   Mentalidad de **producto, no solo código**\
+-   Uso profesional de Git en equipos
+
+---
+
+## 📂 Proyectos Destacados
+
+  -------------------------------------------------------------------------------------------------------------------------
+  Proyecto          Problema       Solución     Resultado      Stack        Demo
+  ----------------- -------------- ------------ -------------- ------------ -----------------------------------------------
+  **Ecommerce Full  Venta de       Ecommerce    App completa   React, Node, https://eccomercefullstack.netlify.app/
+  Stack**           productos sin  con auth,    en producción  Express,     
+                    sistema        users y                     MongoDB      
+                    centralizado   productos                                
+
+  **GDC -- Gestor   Gestión manual Sistema web  Optimización   React, Node, https://sistemadecontacto.netlify.app/
+  de Contactos**    de contactos   fullstack    de carga y     MongoDB      
+                                                derivaciones                
+
+  **Tu Profe        Conectar       Plataforma   Conversión     React, API   https://tuprofeparticularreactjs.netlify.app/
+  Particular**      alumnos con    por          efectiva       REST         
+                    profes         categorías                               
+
+  **Portfolio       Falta de       Portfolio    Marca personal React,       https://porfolioignaciorojos.netlify.app/
+  Profesional**     presencia      con          digital        Bootstrap,   
+                    profesional    proyectos                   Vite         
+                                   reales                                   
+
+  **HIR             Servicio sin   Landing con  Contacto       HTML, CSS,   https://hireparacionesreactjs.netlify.app/
+  Reparaciones**    presencia      formulario   directo con    JavaScript   
+                    online                      clientes                    
+
+  **Concesionario   Mostrar y      App con      Experiencia    React,       https://concesionariosport.netlify.app/
+  Sport**           simular compra filtros y    interactiva    Bootstrap    
+                    de autos       simulador                                
+  -------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 📈 Qué aporto a un equipo
+
+-   Desarrollo de interfaces modernas y escalables\
+-   Integración con APIs reales\
+-   Optimización de rendimiento\
+-   Trabajo en equipo con Git\
+-   Enfoque en producto y mejora continua
 
 ---
 
-### 📂 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|-----------|--------------|-------------|
-| 🌐 [**Portfolio Web Personal**](https://porfolioignaciorojos.netlify.app/) | Presentación profesional con proyectos y stack técnico. | React, Bootstrap, Vite |
-| 🛒 [**Ecommerce Full Stack**](https://eccomercefullstack.netlify.app/) | Aplicación MERN con gestión de productos, usuarios y autenticación. | React, Node.js, MongoDB |
-| 📚 [**Tu Profe Particular**](https://tuprofeparticularreactjs.netlify.app/) | Plataforma de búsqueda y contacto de profesores. | React, API REST |
-| 🗂️ [**GDC Gestor de Contactos**](https://sistemadecontacto.netlify.app/) | Sistema completo para gestión de contactos y derivaciones. | React, Node.js, MongoDB |
-| ⚙️ [**Proyecto Back-End**](https://backend-production-1df6.up.railway.app/) | API REST con autenticación y CRUD de usuarios. | Node.js, Express, MongoDB |
-| 🚗 [**Concesionario Sport **](https://concesionariosport.netlify.app/) | Aplicación para mostrar y filtrar autos de una concesionaria. | React, Bootstrap |
-| 🧩 [**HIR Reparaciones**](https://hireparacionesreactjs.netlify.app/) | Landing page para un servicio técnico, con formulario y animaciones. | HTML, CSS, JavaScript |
-| 🚗 [**Concesionario Sport - simulador js**](https://simuladordecomprajavascript.netlify.app/) | Simulador de compras de autos para una concesionaria | HTML, CSS, JavaScript |
-| 🧩 [**Matching**](https://github.com/IgnacioRojos/Matching-Vite.git) | Landing page dedicada a la promoción del pádel. | React, Vite, Bootstrap |
-
----
 
 ### 📫 Contacto
 
@@ -65,30 +109,4 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<a href="https://github.com/IgnacioRojos">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=IgnacioRojos&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" 
-    alt="GitHub Stats" 
-    height="160"
-  />
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/IgnacioRojos">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRojos&layout=compact&hide_border=true&theme=tokyonight" 
-    alt="Top Languages" 
-    height="160"
-  />
-</a>
-
-</div>
----
-
-✨ *Busco seguir creciendo como desarrollador web y aportar valor a nuevos proyectos.*  
-Si querés ver mi código o colaborar, ¡no dudes en escribirme! 🚀
