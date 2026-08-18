@@ -1,13 +1,13 @@
-<img width="1536" height="1024" alt="Ignacio Rojos - Front-End Developer banner" src="https://github.com/user-attachments/assets/a84f2692-e59b-4012-9428-088dad8d101e" />
+<img width="1536" height="1024" alt="github_banner" src="https://github.com/user-attachments/assets/5274ca65-4737-4e6f-954d-f0b616461c28" />
+
 
 # 👋 Hola, soy **Ignacio Rojos**
 
-### 🚀 Front-End Developer | React • Performance • UI escalable
+### 🚀 Full Stack Developer | Foco en Front-End · React, Node.js & TypeScript
 
-Soy desarrollador Front-End con experiencia construyendo **aplicaciones web reales en producción**, especializado en **React, JavaScript y arquitecturas modernas**, con integración completa a **APIs, backend en Node.js y bases de datos MongoDB**.
+Soy desarrollador Full Stack con foco en Front-End, con experiencia construyendo **aplicaciones web reales en producción**. Trabajo con **React, TypeScript y arquitecturas modernas** del lado del cliente, y con **Node.js, Express y MongoDB** para diseñar la lógica de negocio, las APIs y la persistencia de datos del lado del servidor.
 
 Me enfoco en crear productos digitales que no solo funcionen, sino que generen valor real, priorizando:
-
 - Experiencia de usuario (UX)
 - Rendimiento y performance
 - Escalabilidad del código
@@ -15,7 +15,7 @@ Me enfoco en crear productos digitales que no solo funcionen, sino que generen v
 
 📍 Córdoba, Argentina  
 🌐 Portfolio: https://porfolioignaciorojos.netlify.app  
-💼 Actualmente en **búsqueda activa de oportunidades** como Front-End / Full Stack Developer  
+💼 Actualmente en **búsqueda activa de oportunidades** como Full Stack / Front-End Developer  
 
 ---
 
@@ -42,8 +42,11 @@ Me enfoco en crear productos digitales que no solo funcionen, sino que generen v
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff)
@@ -75,11 +78,11 @@ Me enfoco en crear productos digitales que no solo funcionen, sino que generen v
 
 ## 📈 Qué puedo aportar a un equipo
 
-- Desarrollo de interfaces modernas, accesibles y escalables  
-- Integración con APIs y lógica de negocio  
-- Optimización de performance  
-- Trabajo colaborativo con Git  
-- Mentalidad orientada a producto  
+- Desarrollo full stack: interfaces modernas y APIs/lógica de negocio del lado del servidor
+- Integración con APIs y bases de datos (MongoDB)
+- Optimización de performance
+- Trabajo colaborativo con Git
+- Mentalidad orientada a producto
 
 ---
 
@@ -94,4 +97,4 @@ Me enfoco en crear productos digitales que no solo funcionen, sino que generen v
 
 ## 🚀 Objetivo profesional
 
-Seguir creciendo como desarrollador Front-End / Full Stack en equipos donde pueda aportar valor real, aprender de otros desarrolladores y trabajar en productos que impacten en usuarios reales.
+Seguir creciendo como desarrollador Full Stack / Front-End en equipos donde pueda aportar valor real, aprender de otros desarrolladores y trabajar en productos que impacten en usuarios reales.
