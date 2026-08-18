@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy **Ignacio Rojos**
 
-### 🚀 Front-End Developer (Semi Senior) | React • Performance • UI escalable
+### 🚀 Front-End Developer | React • Performance • UI escalable
 
 Soy desarrollador Front-End con experiencia construyendo **aplicaciones web reales en producción**, especializado en **React, JavaScript y arquitecturas modernas**, con integración completa a **APIs, backend en Node.js y bases de datos MongoDB**.
 
